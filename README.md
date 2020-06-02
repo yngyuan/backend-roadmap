@@ -11,7 +11,7 @@ picture credit goes to https://github.com/kamranahmedse/developer-roadmap
 
 ## 5 Programming Language 
 
-## 6 Algorithms
+## 6 Algorithms and Data Structures
 
 ## 7 Version Control
 
